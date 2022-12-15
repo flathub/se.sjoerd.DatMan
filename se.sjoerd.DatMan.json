@@ -5,7 +5,6 @@
     "sdk" : "org.gnome.Sdk",
     "command" : "datman",
     "finish-args" : [
-        "--share=network",
         "--share=ipc",
         "--socket=wayland",
         "--socket=fallback-x11",
@@ -32,7 +31,7 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/SjoerdB93/DatMan.git",
-                    "commit": "093c01f235b091ffdc5f7751ecffef4fd57de6f6"
+                    "commit": "03fade1fed8ea4012a41be92edae502930388584"
                 }
             ]
         }

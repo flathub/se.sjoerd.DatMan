@@ -9,8 +9,7 @@
         "--share=ipc",
         "--socket=wayland",
         "--socket=fallback-x11",
-        "--device=dri",
-        "--filesystem=home"
+        "--device=dri"
     ],
     "cleanup" : [
         "/include",
@@ -33,7 +32,7 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/SjoerdB93/DatMan.git",
-                    "commit": "b98ab0c083547063801a2cc117a2b2dd240cfd2f"
+                    "commit": "79ee307ccb9ce5b2e5eac6cd7a1f7c0fd7bc9f81"
                 }
             ]
         }

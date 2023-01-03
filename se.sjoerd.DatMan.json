@@ -31,7 +31,7 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/SjoerdB93/DatMan.git",
-                    "commit": "c35aa0a2a21f79a04e83c7cacd4c556c2d66b0ec"
+                    "commit": "66d2643dfe8df530998ac5be375b044a67d07b71"
                 }
             ]
         }
